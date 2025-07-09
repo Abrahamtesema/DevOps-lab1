@@ -1,0 +1,8 @@
+name: DevOps lab
+version: 1.0
+tags:
+  - yaml
+  - develops
+  - ci/cd
+is-active: true
+description: "thi is a simple"

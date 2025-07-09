@@ -1,0 +1,13 @@
+project-name: "AwesomeaApp"
+version: 2.3.1
+Authors: [ alice, bob, harle]
+Authors_Two: 
+  - alice
+  - bob
+  - harle]
+Release status: true
+Enviroments:  
+  - name:
+    - de{url: [example .com
+    staging (url: staging.example.com)
+  product (url: example.ccom)

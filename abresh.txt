@@ -1,1 +1,3 @@
 echo "hello ethiopia"
+git add print-hello.text
+
